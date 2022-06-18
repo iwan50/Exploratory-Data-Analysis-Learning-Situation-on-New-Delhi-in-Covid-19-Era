@@ -8,3 +8,7 @@ The COVID-19 Pandemic has disrupted learning for more than 56 million students i
 2. Data overview
 3. Pre-Processing data
 4. Statistical & Data visualization
+
+- Analysis by Gusanwa
+- https://www.kaggle.com/code/muhammadgusanwaakbar/covid-19-school-closures-and-learning-situation
+- https://www.youtube.com/watch?v=hPCrkvRabJs&list=WL&index=5&t=1083s&ab_channel=GusanwaTheAnalyst
